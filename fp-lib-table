@@ -2,4 +2,5 @@
   (lib (name "rg")(type "KiCad")(uri "/home/richard/Documents/Kicad-libarrys/RG")(options "")(descr ""))
   (lib (name "phosphor")(type "KiCad")(uri "/home/richard/Documents/Kicad-libarrys")(options "")(descr ""))
   (lib (name "esp32")(type "KiCad")(uri "/home/richard/Documents/Kicad-projects/WLED-MOUSE")(options "")(descr ""))
+  (lib (name "mic")(type "KiCad")(uri "${KIPRJMOD}/DMM-4026-B-I2S-R")(options "")(descr ""))
 )
