@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "rg")(type "Legacy")(uri "/home/richard/Documents/Kicad-libarrys/RG.lib")(options "")(descr ""))
+  (lib (name "Phosphor")(type "Legacy")(uri "/home/richard/Documents/Kicad-libarrys/phosphor.lib")(options "")(descr ""))
 )
